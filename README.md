@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5603AQEUczC6RTT3hQ/profile-displayphoto-shrink_200_200/0?e=1599091200&v=beta&t=WJ2CsWeGzRdNgTPRFhC75H_2vZBkBlQoLvrB_id0qH8" style="margin-left:auto margin-right:auto">
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQEUczC6RTT3hQ/profile-displayphoto-shrink_200_200/0?e=1599091200&v=beta&t=WJ2CsWeGzRdNgTPRFhC75H_2vZBkBlQoLvrB_id0qH8" style="display:block; margin-left: auto; margin-right: auto;">
 <h1 style="text-align:center">Cătălin-Ștefan Dima</h1>
 
 <h2>ABOUT ME</h2>
