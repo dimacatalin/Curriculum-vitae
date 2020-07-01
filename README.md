@@ -1,4 +1,4 @@
-<h1>hai norocel baietii</h1>
+<h1 style="color:red;">hai norocel baietii</h1>
 
 ABOUT ME
 A self - motivated student, eager to apply the knowledge I have gathered in
