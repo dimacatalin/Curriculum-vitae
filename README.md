@@ -8,7 +8,7 @@
 </a>
 
 <a href = "mailto:dimacatalin90@yahoo.com">
-<img border="0" alt="Mail" src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" width="30" height="30" style=" display:block; margin-left: auto;margin-right: auto; ">
+<img border="0" alt="Mail" src="https://cdn.clipart.email/e4f9d343afd3e2579eb1dc3cca36856a_email-logo-png-free-transparent-png-logos_400-400.png" width="30" height="30" style=" display:block; margin-left: auto;margin-right: auto; ">
 </a>
 
 <h2>ABOUT ME</h2>
