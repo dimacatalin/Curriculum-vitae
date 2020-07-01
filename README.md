@@ -8,7 +8,8 @@ University and to learn new concepts and programming languages efficiently.
 
 <h2>EDUCATION</h2>
 
-<h3>UNIVERSITY </br> 2018 – PRESENT</h3>
+<h3>UNIVERSITY</h3> 
+<p> 2018 – PRESENT</p>
 
 <h4>UNIVERSITY OF BUCHAREST, FACULTY OF MATHEMATICS AND INFORMATICS</h4>
 
@@ -34,7 +35,8 @@ University and to learn new concepts and programming languages efficiently.
   <li>Software Development Methodologies (C++) </li> 
 </ul>
 
-<h3>HIGH SCHOOL </br> 2014 – 2018</h3>
+<h3>HIGH SCHOOL </h3>
+<p>2014 – 2018</p>
 
 <h4>COLEGIUL NAȚIONAL "ION C. BRĂTIANU" PITESTI</h4>
 <p>Profile: Mathematics and Informatics</p>
