@@ -1,4 +1,4 @@
-<h1>Cătălin-Ștefan Dima</h1>
+<h1 style="text-align:center">Cătălin-Ștefan Dima</h1>
 
 <h2>ABOUT ME</h2>
 <p>
@@ -8,10 +8,8 @@ University and to learn new concepts and programming languages efficiently.
 
 <h2>EDUCATION</h2>
 
-<h3>UNIVERSITY</h3> 
-<p> 2018 – PRESENT</p>
-
-<h4>UNIVERSITY OF BUCHAREST, FACULTY OF MATHEMATICS AND INFORMATICS</h4>
+<h3>UNIVERSITY OF BUCHAREST, FACULTY OF MATHEMATICS AND INFORMATICS</h3> 
+<h4> 2018 – PRESENT</h4>
 
 <p>Main classes studied and passed:<p>
 <ul>
@@ -35,10 +33,9 @@ University and to learn new concepts and programming languages efficiently.
   <li>Software Development Methodologies (C++) </li> 
 </ul>
 
-<h3>HIGH SCHOOL </h3>
-<p>2014 – 2018</p>
+<h3>COLEGIUL NAȚIONAL "ION C. BRĂTIANU" PITESTI</h3>
+<h4>2014 – 2018</h4>
 
-<h4>COLEGIUL NAȚIONAL "ION C. BRĂTIANU" PITESTI</h4>
 <p>Profile: Mathematics and Informatics</p>
 
 <h2>ABOUT ME</h2>
