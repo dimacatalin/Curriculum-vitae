@@ -8,7 +8,7 @@
 </a>
 
 <a href = "mailto:dimacatalin90@yahoo.com">
-<img border="0" alt="linkedin" src="https://www.iconpacks.net/icons/1/free-mail-icon-142-thumb.png" width="30" height="30" style=" display: block; margin-left: auto;margin-right: auto;">
+<img border="0" alt="linkedin" src="https://gayguidemalta.com/wp-content/uploads/2015/12/mail-2.png" width="30" height="30" style=" display: block; margin-left: auto;margin-right: auto;">
 </a>
 
 <h2>ABOUT ME</h2>
