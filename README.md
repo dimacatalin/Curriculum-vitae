@@ -1,5 +1,6 @@
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQEUczC6RTT3hQ/profile-displayphoto-shrink_200_200/0?e=1599091200&v=beta&t=WJ2CsWeGzRdNgTPRFhC75H_2vZBkBlQoLvrB_id0qH8" style="margin-left:auto margin-right:auto">
 <h1 style="text-align:center">Cătălin-Ștefan Dima</h1>
-<img src="https://media-exp1.licdn.com/dms/image/C5603AQEUczC6RTT3hQ/profile-displayphoto-shrink_200_200/0?e=1599091200&v=beta&t=WJ2CsWeGzRdNgTPRFhC75H_2vZBkBlQoLvrB_id0qH8">
+
 <h2>ABOUT ME</h2>
 <p>
 A self - motivated student, eager to apply the knowledge I have gathered in
