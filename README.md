@@ -12,9 +12,14 @@
 
 <h2>ABOUT ME</h2>
 <p>
-A self - motivated student, eager to apply the knowledge I have gathered in
+A self-motivated student, eager to apply the knowledge I have gathered in
 University and to learn new concepts and programming languages efficiently.
 </p>
+
+<h2>EXPERIENCE</h2>
+<h3>Java and DevOps Intern at Revomatico</h3> 
+<h4>Summer 2020</h4>
+
 
 <h2>EDUCATION</h2>
 
