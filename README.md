@@ -2,7 +2,7 @@
 
 <h1 style="text-align:center">Cătălin-Ștefan Dima</h1>
 <a href="https://www.linkedin.com/in/c%C4%83t%C4%83lin-%C8%99tefan-dima-1478001a1/">
-<img border="0" alt="linkedin" src="https://media-exp1.licdn.com/dms/image/C4E03AQEWT837BOtvrQ/profile-displayphoto-shrink_200_200/0/1616868674827?e=1631145600&v=beta&t=Pm7DHGr204pA758-DQO93SvMfqJyD3fBLXjNcUzjNfw" width="30" height="30" style=" display: block; margin-left: auto;margin-right: auto; ">
+<img border="0" alt="linkedin" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/linkedin_original_logo_icon_146435.png" width="30" height="30" style=" display: block; margin-left: auto;margin-right: auto; ">
 </a>
 
 <a href = "mailto:dimacatalin90@yahoo.com">
