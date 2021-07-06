@@ -1,4 +1,4 @@
-<img src="https://avatars1.githubusercontent.com/u/48888637?s=460&u=0f1752fd13fd2925f965a782f984982c2e51bfd7&v=4" style="display:block; margin-left: auto; margin-right: auto; width: 200px; heigth: 200px;" alt="profile photo">
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQEWT837BOtvrQ/profile-displayphoto-shrink_200_200/0/1616868674827?e=1631145600&v=beta&t=Pm7DHGr204pA758-DQO93SvMfqJyD3fBLXjNcUzjNfw" style="display:block; margin-left: auto; margin-right: auto; width: 200px; heigth: 200px;" alt="profile photo">
 
 <h1 style="text-align:center">Cătălin-Ștefan Dima</h1>
 <a href="https://www.linkedin.com/in/c%C4%83t%C4%83lin-%C8%99tefan-dima-1478001a1/">
@@ -74,7 +74,7 @@ good relationships both with my colleagues and the teachers.</li>
   <li>Machine Learning project for Language distinction (Python)</li>
   <li>Website in Laravel (My final year project for College) </li>
 </ul>
-<p>You can reach them by accessing this link: <a href="https://github.com/dimacatalin"> GitHub <a> </p>
+<p>You can reach them by accessing this link: <a href="https://github.com/dimacatalin"> GitHub </a> </p>
 
 <h2>SOME OF THE RESOURCES I APPRECIATE</h2>
 
