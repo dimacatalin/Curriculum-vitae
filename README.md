@@ -17,7 +17,7 @@
 <h2>ABOUT ME</h2>
 <p>
 A self-motivated graduate, eager to apply the knowledge I have gathered in
-University and to learn new concepts and programming languages efficiently. I am currently looking for positions in the IT field, even those that require French.
+University and to learn new concepts and programming languages efficiently. I am currently looking for positions in the IT field, especially those that require French.
 </p>
 
 <h2>EXPERIENCE</h2>
