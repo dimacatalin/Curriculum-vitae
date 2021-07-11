@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" style="display:block; margin-left: auto; margin-right: auto; width: 200px; heigth: 200px;" alt="profile photo">
+<img src="https://avatars.githubusercontent.com/u/48888637?s=400&u=bc0abf7765b65b7f967dbf17d5f0f265babeae3c&v=4" style="display:block; margin-left: auto; margin-right: auto; width: 200px; heigth: 200px;" alt="profile photo">
 
 <h1 style="text-align:center">Cătălin-Ștefan Dima</h1>
 <a href="https://www.linkedin.com/in/c%C4%83t%C4%83lin-%C8%99tefan-dima-1478001a1/">
