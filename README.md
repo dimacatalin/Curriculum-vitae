@@ -2,11 +2,11 @@
 
 <h1 style="text-align:center">Cătălin-Ștefan Dima</h1>
 <a href="https://www.linkedin.com/in/c%C4%83t%C4%83lin-%C8%99tefan-dima-1478001a1/">
-<img border="0" alt="linkedin" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" width="30" height="30" style=" display: block; margin-left: auto;margin-right: auto; ">
+<img border="0" alt="linkedin" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="30" height="30" style=" display: block; margin-left: auto;margin-right: auto; ">
 </a>
 
 <a href = "mailto:dimacatalin90@yahoo.com">
-<img border="0" alt="Mail" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="45" height="45" style=" display:block; margin-left: auto;margin-right: auto;  ">
+<img border="0" alt="Mail" src="https://user-images.githubusercontent.com/48888637/124583604-e593f000-de5b-11eb-960f-a254ab419c0f.png" width="45" height="45" style=" display:block; margin-left: auto;margin-right: auto;  ">
 </a>
 
 
