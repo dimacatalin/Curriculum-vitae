@@ -1,40 +1,51 @@
-<img src="https://avatars.githubusercontent.com/u/48888637?s=400&u=bc0abf7765b65b7f967dbf17d5f0f265babeae3c&v=4" style="display:block; margin-left: auto; margin-right: auto; width: 200px; heigth: 200px;" alt="profile photo">
+<img src="https://avatars.githubusercontent.com/u/48888637?s=400&u=bc0abf7765b65b7f967dbf17d5f0f265babeae3c&v=4" style="display:block; margin-left: auto; margin-right: auto; width: 200px; height: 200px;" alt="profile photo">
 
 <h1 style="text-align:center">Cătălin-Ștefan Dima</h1>
-<a href="https://www.linkedin.com/in/c%C4%83t%C4%83lin-%C8%99tefan-dima-1478001a1/">
-<img border="0" alt="linkedin" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="30" height="30" style=" display: block; margin-left: auto;margin-right: auto; ">
+<a href="https://www.linkedin.com/in/catalin-stefan-dima-1478001a1/">
+<img alt="linkedin" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="30" height="30" style=" display: block; margin-left: auto;margin-right: auto; ">
 </a>
 
 <a href = "mailto:dimacatalin90@yahoo.com">
-<img border="0" alt="Mail" src="https://user-images.githubusercontent.com/48888637/124583604-e593f000-de5b-11eb-960f-a254ab419c0f.png" width="45" height="45" style=" display:block; margin-left: auto;margin-right: auto;  ">
+<img alt="Mail" src="https://user-images.githubusercontent.com/48888637/124583604-e593f000-de5b-11eb-960f-a254ab419c0f.png" width="45" height="45" style=" display:block; margin-left: auto;margin-right: auto;  ">
 </a>
 
 
 <h2>ABOUT ME</h2>
-<p>
-A self-motivated graduate, eager to apply the knowledge I have gathered in
-University and to learn new concepts and programming languages efficiently. I am currently looking for positions in the IT field, especially those that require French.
-</p>
+<p>I'm a Full Stack Developer specialized in Laravel PHP back-end development, placing a strong emphasis on this domain and possessing a foundational understanding of DevOps practices and Angular.</p>
 
 <h2>EXPERIENCE</h2>
-<h3>PHP developper at Enduro Software</h3> 
-<h4>August 2021 - present</h4>
+<h3>Full Stack Developer at Enduro Software</h3> 
+<h4>August 2021 - present | Bucharest, Romania</h4>
 
-<p>The main technology I use is Laravel, but I also have some knowledge in Angular and Docker</p>
+<ul>
+    <li>Primarily utilized PHP framework, Laravel, and Angular.</li>
+    <li>Specialized in back-end development for CRM, HR, and document processing and management systems.</li>
+    <li>Proficient in dynamic PDF generation.</li>
+    <li>Created and managed Docker containers.</li>
+    <li>Implemented SOLR and AWS in Laravel applications.</li>
+    <li>Developed comprehensive testing suites.</li>
+    <li>Managed tasks and projects using Jira.</li>
+</ul>
 
 <h3>Java and DevOps Intern at Revomatico</h3> 
-<h4>Summer 2020</h4>
+<h4>July 2020 – August 2020 | Bucharest, Romania</h4>
 
+<ul>
+    <li>Created a Spring Boot application deployed on Docker containers</li>
+    <li>Attended several valuable courses.</li>
+</ul>
 
 <h2>EDUCATION</h2>
 
-<h3>UNIVERSITY OF BUCHAREST, FACULTY OF MATHEMATICS AND INFORMATICS, MASTER'S DEGREE IN SOFTWARE ENGINEERING</h3> 
-<h4> 2021 – present</h4>
+<h3>University of Bucharest</h3> 
+<p>Master's degree | Software Engineering</p>
+<h4> 2021 – 2023</h4>
 
-<h3>UNIVERSITY OF BUCHAREST, FACULTY OF MATHEMATICS AND INFORMATICS, BACHELOR'S DEGREE</h3> 
-<h4> 2018 – 2021</h4>
+<h3>University of Bucharest</h3>
+<p>Bachelor's degree | Computer Science</p>
+<h4> 2021 – 2023</h4>
 
-<h3>COLEGIUL NAȚIONAL "ION C. BRĂTIANU" PITESTI</h3>
+<h3>National College "ION C. BRĂTIANU" Pitesti</h3>
 <h4>2014 – 2018</h4>
 
 <h2>CERTIFICATIONS</h2>
@@ -57,16 +68,17 @@ being part of my high school and college basketball team.</li>
   <li>While I lived in Belgium for 3 years I studied in a French school with
 colleagues from many European countries managing to develop very
 good relationships both with my colleagues and the teachers.</li>
-  <li>Even though I do not posses a certificate I think that my English is at a high conversational level.</li>
+  <li>Even though I do not possess a certificate I think that my English is at a high conversational level.</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
+  <li>Laravel FaunaDB integration</li>
+  <li>Laravel HR app </li>
+  <li>Website in Laravel (My final year project for College)</li>
   <li>Encrypting and Decrypting an image (C++)</li>
   <li>Website (HTML, CSS, Javascript, NodeJs)</li>
-  <li>TreasureHunt game (C++)</li>
   <li>Machine Learning project for Language distinction (Python)</li>
-  <li>Website in Laravel (My final year project for College) </li>
 </ul>
 <p>You can reach them by accessing this link: <a href="https://github.com/dimacatalin"> GitHub </a> </p>
